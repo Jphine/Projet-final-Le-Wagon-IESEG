@@ -1,0 +1,35 @@
+.btn-visit{
+  color: white;
+  background: #cccccc;
+  border-radius: 7px;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 3.1px;
+  padding: 20px 30px;
+  font-family: "Helvetica", "sans-serif";
+  display: inline-block;
+}
+
+.btn-visit:hover {
+  color: white;
+  background: #ffe5e5;
+ 
+}
+
+.btn-contact {
+  color: white;
+  background: #cccccc;
+  border-radius: 7px;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 3.1px;
+  padding: 20px 30px;
+  font-family:"Helvetica", "sans-serif";
+  display: inline-block;
+}
+
+.btn-contact:hover {
+  color: white;
+  background: #ffe5e5;
+ 
+}
